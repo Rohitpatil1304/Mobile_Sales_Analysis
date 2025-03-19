@@ -1,0 +1,12 @@
+Comprehensive SQL-Based Business Intelligence Analysis for Mobile Sales Data
+
+1] Which brand has the highest average discount percentage across all models?
+2] Identify the top 5 most expensive models along with their respective brands.
+3] Which brand has the highest revenue generated from its mobile sales?
+4] Find the top 3 brands that offer the best value for money by comparing the average price-to-rating ratio.
+5] Which mobile color variant appears most frequently in models with a rating above 4.5?
+6] Identify the most popular RAM and Storage combination for each brand based on the number of entries in the dataset.
+7] Which brand's models have the highest average rating in the '64 GB Storage' category?
+8] Which brand offers the widest range of price points (maximum price difference) for its mobile models?
+9] Find the top 3 brands that consistently maintain a rating above 4.0 across all their models.
+10] Identify the models that have a selling price lower than their respective brand's average selling price.
